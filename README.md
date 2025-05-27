@@ -10,15 +10,18 @@ Ce programme permet de télécharger des vidéos et audios YouTube via un exécu
 
 1. Placez le fichier `YTB.exe` où vous voulez sur votre ordinateur.
 
-2. Double-cliquez sur `YTB.exe` pour lancer le programme.
+2. Assurez-vous que `yt-dlp.exe` est présent dans le même dossier que `YTB.exe`, ou que `yt-dlp` est accessible via la variable d’environnement PATH.
 
-3. Suivez les instructions à l'écran pour télécharger des vidéos YouTube.
+3. Si vous n'avez pas encore `yt-dlp`, vous pouvez le télécharger ici :  
+   [https://github.com/yt-dlp/yt-dlp/releases](https://github.com/yt-dlp/yt-dlp/releases)
+
+4. Double-cliquez sur `YTB.exe` pour lancer le programme.
+
+5. Suivez les instructions à l'écran pour télécharger des vidéos YouTube.
 
 ---
 
 ## Remarques
-
-- Assurez-vous que `yt-dlp.exe` est dans le même dossier que `YTB.exe` ou que `yt-dlp` est accessible via la variable d’environnement PATH.
 
 - Ce programme nécessite Windows.
 
@@ -26,4 +29,5 @@ Ce programme permet de télécharger des vidéos et audios YouTube via un exécu
 
 ## Contact
 
-Pour toute question, contactez-moi.
+Pour toute question, contactez-moi sur discord : noctavia
+
